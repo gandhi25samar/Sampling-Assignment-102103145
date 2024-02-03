@@ -13,7 +13,7 @@ The following sampling methods were applied:
 
 5. Bootstrap Sampling: Resampling with replacement to create multiple samples from the original dataset.
 
-The result is stored the file [sampling_results.csv](https://github.com/gandhi25samar/Sampling-Assignment-102103145/files/14151275/sampling_results.csv)
+The result is stored the file [sampling_results.csv](https://github.com/gandhi25samar/Sampling-Assignment-102103145/blob/main/sampling_results.csv)
 
 ## The RANDOM FOREST outperformed all other models when applied to Bootstrap Sampling Technique.
 
